@@ -21,3 +21,6 @@ Local server should be running and producing feedback to the Command Line throug
 # API Credentials
 Create API credentials on OpenWeatherMap.com or use existing API key inside :)
 
+test 
+etst
+
